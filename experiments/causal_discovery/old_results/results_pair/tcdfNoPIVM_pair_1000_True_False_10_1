@@ -1,0 +1,20 @@
+Summary Unit
+Unit Topology: 
+0.6666666666666667 +- 1.1102230246251565e-16
+Unit Precision Non Oriented: 
+1.0 +- 0.0
+Unit Recall Non Oriented: 
+0.6666666666666667 +- 1.1102230246251565e-16
+Unit F1 Non Oriented: 
+0.8 +- 0.0
+Unit Hamming distance: 
+0.55 +- 0.09999999999999999
+Unit Precision: 
+1.0 +- 0.0
+Unit Recall: 
+0.6666666666666667 +- 1.1102230246251565e-16
+Unit F-Score: 
+0.8 +- 0.0
+
+
+Computational Time: 28.036551308631896 +- 1.2669869443002906

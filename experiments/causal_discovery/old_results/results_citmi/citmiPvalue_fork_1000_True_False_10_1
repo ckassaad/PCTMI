@@ -1,0 +1,29 @@
+Summary Unit
+Unit Topology: 
+0.937142857142857 +- 0.07855844048495726
+Unit Precision Non Oriented: 
+0.95 +- 0.07637626158259732
+Unit Recall Non Oriented: 
+0.9800000000000001 +- 0.05999999999999999
+Unit F1 Non Oriented: 
+0.9616161616161616 +- 0.04733484652064639
+Unit Hamming distance: 
+0.9 +- 0.1048220125784067
+Unit Precision: 
+0.9666666666666668 +- 0.06666666666666665
+Unit Recall: 
+0.9400000000000001 +- 0.12806248474865697
+Unit F-Score: 
+0.9457070707070707 +- 0.0786748898442891
+
+Summary Temporal
+Temporal Topology: 
+0.0 +- 0.0
+Temporal Precision: 
+0.0 +- 0.0
+Temporal Recall: 
+0.0 +- 0.0
+Temporal F-Score: 
+0.0 +- 0.0
+
+Computational Time: 1233.059428501129 +- 167.905870985647

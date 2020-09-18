@@ -1,0 +1,5 @@
+&citmi&citmiPvalue&pcmciP&tcdf&tcdfNoPIVM
+Temporal Topology:&$0.701 \pm 0.136$&$0.701 \pm 0.136$&$0.631 \pm 0.213$&$0.567 \pm 0.158$&$0.59 \pm 0.136$
+Temporal Precision:&$0.913 \pm 0.137$&$0.913 \pm 0.137$&$0.734 \pm 0.211$&$0.933 \pm 0.133$&$0.872 \pm 0.132$
+Temporal Recall:&$0.76 \pm 0.12$&$0.76 \pm 0.12$&$0.8 \pm 0.2$&$0.58 \pm 0.14$&$0.64 \pm 0.12$
+Temporal F-Score:&$0.816 \pm 0.104$&$0.816 \pm 0.104$&$0.752 \pm 0.174$&$0.71 \pm 0.134$&$0.733 \pm 0.11$

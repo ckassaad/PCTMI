@@ -1,0 +1,8 @@
+&citmi&citmiPvalue&granger&pcmciP&tcdf&tcdfNoPIVM
+Unit Topology:&$0.767 \pm 0.053$&0.0&0.0&0.0&0.0&0.0
+Unit Precision Non Oriented:&$0.862 \pm 0.076$&0.0&0.0&0.0&0.0&0.0
+Unit Recall Non Oriented:&$0.835 \pm 0.05$&0.0&0.0&0.0&0.0&0.0
+Unit F1 Non Oriented:&$0.846 \pm 0.049$&0.0&0.0&0.0&0.0&0.0
+Unit Precision:&$0.745 \pm 0.103$&0.0&0.0&0.0&0.0&0.0
+Unit Recall:&$0.76 \pm 0.066$&0.0&0.0&0.0&0.0&0.0
+Unit F-Score:&$0.748 \pm 0.065$&0.0&0.0&0.0&0.0&0.0
